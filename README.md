@@ -8,4 +8,4 @@
 
 - 以下是一些关于 ROS 1 通过机械臂视觉抓取的博客，但目前并未复现：[阅读文章](https://www.zhihu.com/question/279596687/answer/3279117559?utm_psn=1861349337591865346)
 - 机器人学习指南，讲解如何分步入门机器人https://qiu6401.gitbook.io/how-to-learn-robotics
-- b站主播我要一米八了的视觉抓取视频，目前复现了大部分，但是存在机械臂初始位姿问题。https://github.com/gjt15083576031/UR5_gripper_camera_gazebo
+- b站主播我要一米八了的视觉抓取视频，目前复现了大部分，但是存在机械臂初始位姿问题https://github.com/gjt15083576031/UR5_gripper_camera_gazebo
